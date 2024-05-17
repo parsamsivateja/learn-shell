@@ -1,3 +1,3 @@
 # learn-shell
 
-bash shell scripying
+bash shell scripting
